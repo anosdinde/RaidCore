@@ -1,0 +1,28 @@
+lightweight tag 675c6d04ceb513fcce1b6bef275fb36b944bfcb0 5.15
+Author:	Imm├⌐ sama <immemor@users.noreply.github.com>
+Date:	Sun Nov 1 23:55:56 2015 +0100
+
+commit 675c6d04ceb513fcce1b6bef275fb36b944bfcb0
+Author: Imm├⌐ sama <immemor@users.noreply.github.com>
+Date:   Sun Nov 1 23:55:56 2015 +0100
+
+    Update version string
+
+commit 90ac9d097f19f24029fc319b65ae213f40c2c52a
+Author: Imm├⌐ sama <immemor@users.noreply.github.com>
+Date:   Sun Nov 1 23:54:10 2015 +0100
+
+    Add an another way to check the death.
+
+commit 9447d1ac8e00243e74553349c9a74f347953ee92
+Author: Imm├⌐ sama <immemor@users.noreply.github.com>
+Date:   Sun Nov 1 22:14:55 2015 +0100
+
+    Encounters/DS: Fix the lua error on line 707 of Avatus
+
+commit 3c072bc4c19d6baadd5564fd8e86e38b133c7637
+Author: Imm├⌐ sama <immemor@users.noreply.github.com>
+Date:   Sun Nov 1 22:10:35 2015 +0100
+
+    Fix the missing handler for message.
+
